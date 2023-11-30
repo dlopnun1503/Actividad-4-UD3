@@ -1,0 +1,46 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "cargo": "Desarrollador",
+        "salario": 55000,
+        "edad": 27,
+        "proyecto": [
+            {
+                "nombre": "Sistema de Gestión",
+                "fecha_inicio": "10-02-2023",
+                "tarea_asignada": "Diseño de la interfaz"
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "María Rodríguez",
+        "cargo": "Analista de Datos",
+        "salario": 60000,
+        "edad": 40,
+        "proyecto": [
+            {
+                "nombre": "Aplicación Móvil",
+                "fecha_inicio": "18-06-2023",
+                "tarea_asignada": "Pruebas de rendimiento"
+            }
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Carlos Gómez",
+        "cargo": "Diseñador",
+        "salario": 75000,
+        "edad": 43,
+        "proyecto": [
+            {
+                "nombre": "Roll a Ball",
+                "fecha_inicio": "02-04-2023",
+                "tarea_asignada": "Diseño del código"
+            }
+        ]
+      }
+    ]
+  }

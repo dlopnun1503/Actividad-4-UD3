@@ -1,0 +1,62 @@
+{
+    "escuelas": {
+       "alumnos": [
+          {
+             "nombre": "David",
+             "apellido": "Lopez",
+             "fecha_nacimiento": "19-05-2004",
+             "nota_media": "8",
+             "asignaturas": [
+                {
+                    "nombre": "Lengua",
+                    "nombre": "Historia"
+                }
+             ]
+          },
+          
+          {
+            "nombre": "Carlos",
+            "apellido": "Perez",
+            "fecha_nacimiento": "29-08-2004",
+            "nota_media": "9,2",
+            "asignaturas": [
+                {
+                    "nombre": "Lengua",
+                    "nombre": "Historia"
+                }
+             ]
+         }
+       ],
+
+          "profesores":[
+          {
+            "nombre": "Juan",
+            "apellido": "García",
+            "fecha_nacimiento": "19-07-1985",
+            "asignatura": "Lengua" 
+        },
+
+        {
+            "nombre": "Alvaro",
+            "apellido": "Garces",
+            "fecha_nacimiento": "10-03-1985",
+            "asignatura": "Historia"
+        }
+       ],
+
+
+       "asignaturas": [
+        {
+        "nombre": "Lengua",
+        "creditos": "6"
+        },
+
+        {
+            "nombre": "Historia",
+            "creditos": "6"
+            }   
+    ]
+
+
+    }
+ }
